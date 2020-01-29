@@ -19,3 +19,6 @@ disponibles a través de la red de una manera eficiente.
 Middleware es a un sistema distribuido lo que un servicio del sistema operativo es a un equipo.
 
 # Metas de diseño de los sistemas distribuidos
+
+* Soporte para compartir recursos. Hoy en día fundamentalmente recursos de almacenamiento y/o procesamiento
+* Abierto permite que el sistema sea extensible y desplegable en casi cualquier plataforma
